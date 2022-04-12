@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 [![codewars](https://www.codewars.com/users/kamil7777/badges/large)](https://www.codewars.com/users/kamil7777)   
 
+<a href="https://app.daily.dev/kamil77"><img src="https://api.daily.dev/devcards/f8a9fb18ffaf44f1a4ad54d406f3d810.png?r=wcf" width="400" alt="Kamil Salahov's Dev Card"/></a>
+
